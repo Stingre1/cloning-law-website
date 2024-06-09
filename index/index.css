@@ -59,3 +59,50 @@ body {
     font-size: 18px;
     margin-right:30px;
 }
+
+
+.hero {
+	background: url(../images/bg-adbox.png) no-repeat center bottom;
+    border-bottom: 1px solid #ffffff;
+    padding-top: 15px;
+	/* temp */
+	min-height: 500px; 
+	align-items: center;
+	justify-content: center;
+	
+}
+.heroCard {
+	border: 1px solid #ffffff;
+	
+	/* temp */
+	/* min-height: 100px; */
+	min-width: 200px; 
+}
+
+.highlight{
+color: #626262;
+font: 14px/24px Arial, Helvetica, sans-serif;
+margin: 0 0 24px;
+display: inline-flex;
+justify-content: center;
+}
+
+.testimonalH2{
+	font: 19px/24px "Times New Roman", Times, serif;
+	letter-spacing: 2px;
+	margin: 0;
+	text-transform: uppercase;
+	color: #57614e;
+	margin-bottom: 24px;
+}
+
+.TheManes{
+	color: #57614e;
+	font: 29px/30px "Times New Roman", Times, serif;
+	margin: 0 0 12px;
+	font-size: 32px;
+	line-height: 36px;
+	padding: 12px 0 12px;
+	text-transform: none;
+}
+
